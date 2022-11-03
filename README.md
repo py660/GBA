@@ -12,4 +12,5 @@ https://gba.endinternetcensorship.repl.co/
 
 <br>
 
-# ⚠️This Project Is No Longer Supported!⚠️
+# Emulator (Desc)
+Just a gba website, lol
